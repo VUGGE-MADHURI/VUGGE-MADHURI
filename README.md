@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VUGGE-MADHURI
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning reactJS,Django
-- 💞️ I’m looking to collaborate on WEB DEVELOPMENT
+- 💞️ I’m looking to collaborate on Advanced projects
 - 📫 How to reach me ON vugge.madhuri@gmail.com
 
 <!---
